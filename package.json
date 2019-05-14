@@ -1,0 +1,17 @@
+{
+  "name": "jquery_kennismaking",
+  "version": "1.0.0",
+  "description": "een eerste trainning met jQuery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jQuery"
+  ],
+  "author": "Zanhua Li",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
